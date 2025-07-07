@@ -1,4 +1,4 @@
-import predefinedLocations from '../knex/utils/city_alias';
+import predefinedLocations from './utils/city_alias';
 
 import { Gender, SexualOrientation, User } from './User_type';
 
